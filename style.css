@@ -12,14 +12,11 @@ div {
 .sky {
 	height:25vh;
 	width: calc(100vw/3);
-	max-height:100%;
-	max-width:100%;
 }
 
 .water {
 	height:75vh; 
-	max-height:100%;
-	max-width:100%;
+	width: calc(100vw/3);
 }
 
 .ice {
