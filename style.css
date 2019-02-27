@@ -23,7 +23,7 @@ div {
 }
 
 .ice {
-	height:18vh; 
+	height:25vh; 
 	width: calc(100vw/3);
 	
 }
@@ -32,6 +32,6 @@ div {
 }
 
 .scrat{
-	height: 21vh;
+	height: 25vh;
 	width: calc(100vw/3);
 }
