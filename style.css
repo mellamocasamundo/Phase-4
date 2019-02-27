@@ -5,37 +5,27 @@ body {
 }
 div {
 	height: 100vh;
-	height: auto;
 	width: calc(100vw/3);
-	width: auto;
 	display: block;
 }
 
 .sky {
-	max-height:calc(100%/4);
-	height: auto;
-	max-width: calc(100%/3);
-	width: auto;
+	height: calc(100vh/4);
+	width: calc(100vw/3);
 }
 
 .water {
-	max-height:calc(100%/(4/3));
-	height: auto;
-	max-width: calc(100%/3);
-	widht: auto:
+	height:calc(100vh/(4/3));
+	width: calc(100vw/3);
 }
 
 .ice {
-	height:25vh;
-	height: auto;
+	height:(100vh/4);
 	width: calc(100vw/3);
-	widht: auto;
 	
 }
 
 .home{
-	height: 25vh;
-	height: auto;
+	height: calc(100vh/4);
 	width: calc(100vw/3);
-	width: auto;
 }
