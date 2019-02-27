@@ -12,7 +12,7 @@ div {
 .sky {
 	height:25vh;
 	width: calc(100vw/3);
-	background-image: url("sky.png");
+	background-image: url("image/sky.png");
 }
 
 .water {
