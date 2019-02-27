@@ -11,7 +11,7 @@ div {
 
 .sky {
 	height: calc(100vh/4);
-	width: calc(100vw/1);
+	width: calc(100vw/3);
 }
 
 .water {
