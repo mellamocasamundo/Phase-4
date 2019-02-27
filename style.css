@@ -5,27 +5,37 @@ body {
 }
 div {
 	height: 100vh;
+	height: auto;
 	width: calc(100vw/3);
+	width: auto;
 	display: block;
 }
 
 .sky {
 	height:25vh;
+	height: auto;
 	width: calc(100vw/3);
+	width: auto;
 }
 
 .water {
-	height:75vh; 
+	height:75vh;
+	height: auto;
 	width: calc(100vw/3);
+	widht: auto:
 }
 
 .ice {
-	height:25vh; 
+	height:25vh;
+	height: auto;
 	width: calc(100vw/3);
+	widht: auto;
 	
 }
 
 .home{
 	height: 25vh;
+	height: auto;
 	width: calc(100vw/3);
+	width: auto;
 }
