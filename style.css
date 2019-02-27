@@ -11,7 +11,9 @@ div {
 
 .sky {
 	height:25vh;
-	background-color: #87CEEB;
+	width: calc(100vw/3);
+	max-height:100%;
+	max-width:100%;
 }
 
 .water {
