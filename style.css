@@ -12,16 +12,16 @@ div {
 }
 
 .sky {
-	height:25vh;
+	max-height:calc(100%/4);
 	height: auto;
-	width: calc(100vw/3);
+	max-width: calc(100%/3);
 	width: auto;
 }
 
 .water {
-	height:75vh;
+	max-height:calc(100%/(4/3));
 	height: auto;
-	width: calc(100vw/3);
+	max-width: calc(100%/3);
 	widht: auto:
 }
 
